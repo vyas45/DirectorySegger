@@ -1,0 +1,9 @@
+Todo:
+----
+1. Some directories created are ugly... find a better way
+2. Find easy ways to run this 
+    1. Cron Job 
+    2. Specifiy multiple directories 
+    3. Have a inotify kind of a thing for automatic updates
+    4. Hook into the GUI ? 
+    <tab>1. Extend the apple right click
