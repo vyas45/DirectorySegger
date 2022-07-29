@@ -7,3 +7,17 @@ Todo:
     3. Have a inotify kind of a thing for automatic updates
     4. Hook into the GUI ? 
     <tab>1. Extend the apple right click
+
+
+Features:
+========
+
+1. Log DB 
+2. Unwrap feature 
+
+
+Issues:
+------
+
+1. Issue file names:
+    1. Todoist-8.0.7.dmg --> .  in between -> find ways to get extension
